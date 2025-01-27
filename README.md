@@ -1,6 +1,6 @@
 # Blog-Database-System
 - This project is a complete design and implementation of the **backend** of a blog site application with MySQL.
-- It focuses on the fundamental concepts of Relational Databases (RDBMSs), namely tables, views, procedures, functions and triggers.
+- It focuses on the fundamental concepts of Relational Databases (RDBMSs), namely tables, views, procedures, functions,triggers and normalization.
 - The tables are in Third Normal Form (3NF).
 
 
