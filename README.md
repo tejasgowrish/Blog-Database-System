@@ -14,13 +14,9 @@
 
 
 ## Files in this repo:
-- Backend:
-  - tables.sql - Table defintions
-  - record_insertion.sql - Populating the database
-  - procedures_and_functions.sql - Defining functions and procedures
-  - procedure_calls.sql - Calling the functions and procedures
-  - views.sql - Defining virtual tables to represent the data
-  - triggers.sql - Defining triggers
-  - indexes.sql - Appropriate index definitions for the tables
-- Frontend:
-  - GUI_Blog_App.py - A Graphical User Interface (GUI) for the blog app
+- tables.sql - Table defintions
+- record_insertion.sql - Populating the database
+- procedures_and_functions.sql - Defining functions and procedures
+- procedure_calls.sql - Calling the functions and procedures
+- views.sql - Defining virtual tables to represent the data
+- triggers.sql - Defining triggers
